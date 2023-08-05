@@ -2,7 +2,7 @@ module github.com/gpiechnik2/xk6-smtp
 
 go 1.19
 
-require go.k6.io/k6 v0.44.1
+require go.k6.io/k6 v0.45.1
 
 require (
 	github.com/dlclark/regexp2 v1.10.0 // indirect
